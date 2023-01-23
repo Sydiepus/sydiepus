@@ -1,5 +1,11 @@
-### Hi there 👋
+### ヤッハロー $\space$ (^^)/~~~
+- I'm just a regular guy that likes "contributing" to open source projects. (best i can do is open issues >_< )
+- I'm currently learning :
+  - Japanese
+  - [V](https://vlang.io/)
 
+
+![Sydiepus's GitHub stats](https://github-readme-stats.vercel.app/api?username=sydiepus&show_icons=true&theme=transparent)
 <!--
 **Sydiepus/sydiepus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
