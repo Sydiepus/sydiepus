@@ -1,4 +1,4 @@
-### ヤッハロー $\space$ (^^)/~~~
+### ヤッハロー   (^^)/~~~
 - I'm just a regular guy that likes "contributing" to open source projects. (best i can do is open issues >_< )
 - I'm currently learning :
   - Japanese
