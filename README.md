@@ -1,11 +1,16 @@
 ### ヤッハロー  &nbsp; (^^)/~~~
-- I'm just a regular guy that likes "contributing" to open source projects. (best i can do is open issues >_< )
-- I'm currently learning :
-  - Japanese
-  - [V](https://vlang.io/)
+```v
+struct Sydiepus {
+pub:
+	loves      []string = ['Python', 'Linux', 'Cybersecurity', 'FOSS', 'Pixel art', 'Anime', 'Potatoes']
+	studying   []string = ['V', 'Japanese']
+	working_on string   = 'Contributing with some code instead of issues.'
+}
+```
 
-
-![Sydiepus's GitHub stats](https://github-readme-stats.vercel.app/api?username=sydiepus&show_icons=true&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sydiepus&show_icons=true&theme=transparent&hide_title=true" alt="Sydiepus's GitHub stats"/>
+</p>
 <!--
 **Sydiepus/sydiepus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
